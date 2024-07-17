@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Derplime/2020_WebDev_NewsletterSignup#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "nodemon": "^2.0.4",
     "request": "^2.88.2"
   }
